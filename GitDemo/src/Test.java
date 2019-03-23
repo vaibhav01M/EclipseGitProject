@@ -6,8 +6,8 @@ public abstract class Test {
 
 		System.out.println("Hello ,  Vaibhav ");
 		System.out.println("My first commit through eclipse");
-		
-		
+		System.out.println("feature2");
+		System.out.println("will create conflict");
 	}
 
 }
